@@ -1,3 +1,7 @@
+## Let's see how we can do this at www.ilikeplaces.com ;-)
+
+### So far, we've got our sweeper hobbits going on baby steps towards storing geo spatial data over here: https://github.com/ravindranathakila/Sweeper-Hobbits
+
 # HBase In Action: GIS
 
 [http://www.manning.com/dimidukkhurana][0]
