@@ -1,5 +1,7 @@
 ## Let's see how we can do this at www.ilikeplaces.com ;-)
 
+## Find the missing geo hashing code dependency here: https://github.com/kungfoo/geohash-java :-)
+
 ### So far, we've got our sweeper hobbits going on baby steps towards storing geo spatial data over here: https://github.com/ravindranathakila/Sweeper-Hobbits
 
 # HBase In Action: GIS
